@@ -4,5 +4,14 @@ I'm Megha, an IT student with lots of cool projects to share. I'm really into us
 
 ### Languages and Tools
 
+<img align="left" width="30px" style="padding-right:10px;" src="https://github.com/mjotangi/mjotangi/blob/main/excel-4.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://github.com/mjotangi/mjotangi/blob/main/word-1.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://github.com/mjotangi/mjotangi/blob/main/powerpoint-2.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://github.com/mjotangi/mjotangi/blob/main/html-1.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://github.com/mjotangi/mjotangi/blob/main/css-3.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://github.com/mjotangi/mjotangi/blob/main/javascript-1.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://github.com/mjotangi/mjotangi/blob/main/javascript-1.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://github.com/mjotangi/mjotangi/blob/main/tableau-software.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://github.com/mjotangi/mjotangi/blob/main/power-bi-1.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://github.com/mjotangi/mjotangi/blob/main/excel-4.svg"/>
