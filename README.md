@@ -5,3 +5,13 @@ I'm Megha, an IT student with lots of cool projects to share. I'm really into us
 ### Languages and Tools
 
 <img align="left" width="30px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>
