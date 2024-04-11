@@ -5,4 +5,4 @@ I'm Megha, an IT student with lots of cool projects to share. I'm really into us
 ### Languages and Tools
 
 <img align="left" width="30px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>
-![css-3](https://github.com/mjotangi/mjotangi/assets/146262756/d35400d8-d7c6-4e64-9a89-2bab13c300c5)
+![alt text](https://github.com/[mjotangi]/[mjotangi]/blob/[main]/excel-3.svg?raw=true)
