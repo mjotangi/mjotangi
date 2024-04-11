@@ -14,4 +14,3 @@ I'm Megha, an IT student with lots of cool projects to share. I'm really into us
 <img align="left" width="30px" style="padding-right:10px;" src="https://github.com/mjotangi/mjotangi/blob/main/nodejs-icon.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://github.com/mjotangi/mjotangi/blob/main/tableau-software.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://github.com/mjotangi/mjotangi/blob/main/power-bi-1.svg"/>
-<img align="left" width="30px" style="padding-right:10px;" src="https://github.com/mjotangi/mjotangi/blob/main/excel-4.svg"/>
